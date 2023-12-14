@@ -169,7 +169,7 @@ ng g interceptor nom-intercepteur
 
 <h2>Captures d'Écran des Pages avec Gestion des Droits d'Accès</h2>
 <h3>Génération des tokens avec JWT</h3>
-<p>un jeton JWT contient des informations (revendications) sur un utilisateur et est signé numériquement pour garantir son intégrité. Il peut être utilisé pour authentifier et autoriser les utilisateurs dans un système sécurisé. Le champ "roles" est souvent utilisé pour définir les droits et les permissions associés à un utilisateur.</p>
+<p>Un jeton JWT contient des informations (revendications) sur un utilisateur et est signé numériquement pour garantir son intégrité. Il peut être utilisé pour authentifier et autoriser les utilisateurs dans un système sécurisé. Le champ "roles" est souvent utilisé pour définir les droits et les permissions associés à un utilisateur.</p>
 <h4>Admin</h4>
 <img src="captures/token_admin.PNG">
 <h4>User normal</h4>
