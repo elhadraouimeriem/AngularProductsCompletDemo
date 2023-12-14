@@ -162,13 +162,14 @@ ng g interceptor nom-intercepteur
 
 <h4>2.4 Envoi de requêtes HTTP vers le Backend</h4>
 <p>
-    Nous pouvons maintenant envoyer des requêtes HTTP à notre backend pour récupérer des données. N'oublions pas d'importer le module correspondant
+    Nous pouvons maintenant envoyer des requêtes HTTP à notre backend pour récupérer des données.Apres  l'importer du module correspondant
     dans le fichier <strong>app.module.ts</strong> de notre application Angular.
 </p>
 <img src="captures/db_json.PNG">
 
 <h2>Captures d'Écran des Pages avec Gestion des Droits d'Accès</h2>
-<h3>Génération des tokens</h3>
+<h3>Génération des tokens avec JWT</h3>
+<p>un jeton JWT contient des informations (revendications) sur un utilisateur et est signé numériquement pour garantir son intégrité. Il peut être utilisé pour authentifier et autoriser les utilisateurs dans un système sécurisé. Le champ "roles" est souvent utilisé pour définir les droits et les permissions associés à un utilisateur.</p>
 <h4>Admin</h4>
 <img src="captures/token_admin.PNG">
 <h4>User normal</h4>
