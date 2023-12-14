@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": "meriem",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJtZXJpZW0iLCJpYXQiOjE1MTYyMzkwMjIsImV4cCI6MTUxNjIzOTAyMiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4ODg4L2F1dGgiLCJmaXJzdG5hbWUiOiJNZXJpZW0iLCJsYXN0bmFtZSI6IkVMIEhBRFJBT1VJIiwiZW1haWwiOiJtLmVsaGFkcmFvdWlAbXVuZGlhcGxpcy5tYSIsInJvbGVzIjpbIlVTRVIiLCJBRE1JTiJdfQ.yfsaNSM1S37k5UQ0aCAy5czZGavCeHsbhwUkElz5aPQ"
+    },
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsImZpcnN0bmFtZSI6Ik1lcmllbSIsImxhc3RuYW1lIjoiRUwgSEFSSU9VSSIsImVtYWlsIjoibS5lbGhhcmlvaUBtdW5kaWFsaXMubWEiLCJyb2xlcyI6WyJVU0VSIl19.vNEUv1T5TItDjEgN18o2x28jcl1mWO2piVZWL-TXw7s"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsImZpcnN0bmFtZSI6Ik1lcmllbSIsImxhc3RuYW1lIjoiRUwgSEFEUkFPVUkiLCJlbWFpbCI6Im0uZWxoYWRyYW91aUBtdW5kaWFwbGlzLm1hIiwicm9sZXMiOlsiVVNFUiIsIkFETUlOIl19.IAbM0y0oEiF4W4C4yu7149DrkFmpZsiLMq768pswrSI"
+    }
+  ],
+  "products": [
+    {
+      "name": "Computer HP",
+      "price": "8 000",
+      "checked": true,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Computer Workstation updated",
+      "price": "880 000",
+      "checked": true
+    },
+    {
+      "name": "COMPUTER DEL GAMING",
+      "price": "12000",
+      "checked": true,
+      "id": 13
+    },
+    {
+      "name": "xxxxxxxx",
+      "price": "123",
+      "checked": false,
+      "id": 7
+    },
+    {
+      "name": "Printer",
+      "price": "600",
+      "checked": false,
+      "id": 8
+    },
+    {
+      "name": "Computer HP",
+      "price": "8 000",
+      "checked": true,
+      "id": 9
+    },
+    {
+      "name": "Computer Workstation",
+      "price": "88 000",
+      "checked": true,
+      "id": 10
+    },
+    {
+      "name": "Computer ASUS",
+      "price": "30 000",
+      "checked": true,
+      "id": 14
+    },
+    {
+      "name": "Computer ASUS",
+      "price": "30 000",
+      "checked": true,
+      "id": 15
+    }
+  ]
+}
