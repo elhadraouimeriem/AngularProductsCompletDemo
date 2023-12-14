@@ -35,7 +35,7 @@
 
 <h2>Énoncé</h2>
 <p>
-Créer une application web basée sur Angular qui permet de gérer les produits. Chaque Produit est défini par son id, name, price, quantity, available. Le backend de l'application est basé sur une REST API basée sur Json-Server
+Créer une application web basée sur Angular qui permet de gérer les produits. Chaque Produit est défini par son id, name, price,  chacked. Le backend de l'application est basé sur une REST API basée sur Json-Server
 L'application doit permettre de :</p>
 <ul>
     <li>Afficher les produits</li>
